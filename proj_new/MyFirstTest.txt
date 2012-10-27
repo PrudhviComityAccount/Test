@@ -1,4 +1,0 @@
-My first test file to test the renaming of the folder. This is the source file.
-
-Adding the additional line to create logs.
-
